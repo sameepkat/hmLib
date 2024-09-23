@@ -1,0 +1,10 @@
+#Ignore Executables (files without an extension)
+
+# Allow c and C++ source and header files
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+
+#Other necessary files
+!Makefile
